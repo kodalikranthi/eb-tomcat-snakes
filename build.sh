@@ -25,3 +25,4 @@ mv ROOT.war ../
 echo .
 echo "SUCCESS"
 echo " you have done it "
+echo " s3 "
